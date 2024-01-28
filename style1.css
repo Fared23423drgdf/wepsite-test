@@ -1,0 +1,132 @@
+.h1homepage{
+
+    color:rgb(0, 119, 255);
+    background-color: aquamarine;
+    position:sticky;
+    
+    text-align: center ;
+
+}
+.homepage{
+
+    background-image: url(https://arabai-images.s3.me-south-1.amazonaws.com/202401-2818-4542-b94d8d30-1bfe-488c-9b8d-dc551c7dc095_1706453142.jpeg);
+    background-repeat: no-repeat;
+    background-size: 200ch;
+    background-position-x: center;
+    background-position-y: center;
+
+}
+
+body{
+
+    background-color: aliceblue;
+}
+
+
+input{
+
+    font-size: 40px;
+
+}
+
+.button1{
+
+    border: 1px rgb(0, 0, 0) solid 1px;
+
+    padding: 15px;
+
+    color:rgb(255, 255, 255);
+
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 5px;
+
+    transition: 0.5s;
+
+    width:200px;
+    
+}
+.button1:hover{
+
+    
+    border: 1px rgb(0, 0, 0) solid 1px;
+
+    padding: 15px;
+
+    color:rgb(0, 0, 0);
+
+    background-color: rgb(255, 255, 255);
+
+    border-radius: 5px;
+
+    transition: 0.3s;
+
+    
+}
+
+.code {
+
+    background-color: darkcyan;
+
+}
+
+.h1code{
+
+    color:white
+}
+
+
+
+.button3{
+
+    border: 1px rgb(0, 0, 0) solid 1px;
+
+    padding: 15px;
+
+    color:rgb(255, 255, 255);
+
+    background-color: rgb(26, 101, 151);
+
+    border-radius: 5px;
+
+    transition: 0.2s;
+
+    font-size:30px;
+}
+.button3:hover{
+
+    
+    border: 1px  rgb(19, 107, 79);
+
+    padding: 15px;
+
+    color:rgb(255, 255, 255);
+
+    background-color: rgb(63, 130, 174);
+
+    border-radius: 5px;
+
+    transition: 0.2s;
+
+    font-size:35px;
+    
+}
+ 
+
+
+
+.button2{
+
+    background-color: black;
+    font-size: 30px;
+    color:white;
+    transition: 0.5s;
+}
+.button2:hover{
+    background-color: white;
+    color: black;
+    font-size: 35px;
+    transition: 0.5s;
+}
+
+
